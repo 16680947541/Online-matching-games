@@ -1,7 +1,5 @@
 ### Online-matching-games
 
-main 分支是old，alp是默认分支。
-
 使用 SpringBoot + SpringCloud + vue3 + MybatisPlus。
 
 已经有以下几个功能：
